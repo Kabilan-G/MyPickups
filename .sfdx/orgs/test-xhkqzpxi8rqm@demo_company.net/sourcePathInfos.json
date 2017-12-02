@@ -1,8 +1,8 @@
 [
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app",
         {
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1512240417467,
@@ -15,9 +15,9 @@
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main",
         {
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1512240417467,
@@ -30,35 +30,35 @@
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512242818827,
             "changeTime": 1512242818827,
-            "contentHash": "652936e172d29594295c80fb3868fb3388581439"
+            "contentHash": "652936e172d29594295c80fb3868fb3388581439",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512242818619,
             "changeTime": 1512242818619,
-            "contentHash": "a871cf26a8ad5837ebf4e58097c3bcd606aad5bf"
+            "contentHash": "a871cf26a8ad5837ebf4e58097c3bcd606aad5bf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups",
+        "F:\\GitTest\\Dev2\\MyPickups",
         {
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1512240494962,
@@ -71,9 +71,9 @@
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\Test1",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\Test1",
         {
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\Test1",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\Test1",
             "isDirectory": true,
             "size": 0,
             "modifiedTime": 1512242344432,
@@ -84,120 +84,120 @@
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1512242818621,
             "changeTime": 1512242818621,
-            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa"
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 907,
             "modifiedTime": 1512242818622,
             "changeTime": 1512242818622,
-            "contentHash": "9176503124a8d83baf08410a1402c782bf58af53"
+            "contentHash": "9176503124a8d83baf08410a1402c782bf58af53",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 595,
             "modifiedTime": 1512242818703,
             "changeTime": 1512242818703,
-            "contentHash": "4cecc183e20f169a3e99f2ccf754b3f0be1f76fd"
+            "contentHash": "4cecc183e20f169a3e99f2ccf754b3f0be1f76fd",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6357,
             "modifiedTime": 1512242818825,
             "changeTime": 1512242818825,
-            "contentHash": "595274d2cdbbf803e827bb711882df989a99fe83"
+            "contentHash": "595274d2cdbbf803e827bb711882df989a99fe83",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1512242818828,
             "changeTime": 1512242818828,
-            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 225,
             "modifiedTime": 1512242818829,
             "changeTime": 1512242818829,
-            "contentHash": "a0744c7ab6abfc3928018e2e1243dcbe55ec2cb1"
+            "contentHash": "a0744c7ab6abfc3928018e2e1243dcbe55ec2cb1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\MyContactList",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\MyContactList",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512242818703,
             "changeTime": 1512242818703,
-            "contentHash": "398f07a8f56ed843eae43c3d7ea0990443aae5ef"
+            "contentHash": "398f07a8f56ed843eae43c3d7ea0990443aae5ef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\flexipages",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\flexipages",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512242818707,
             "changeTime": 1512242818707,
-            "contentHash": "84ae45b14ce04fbcb63fa653277ce669fbb307ea"
+            "contentHash": "84ae45b14ce04fbcb63fa653277ce669fbb307ea",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\classes",
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes",
         {
-            "state": "u",
-            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\classes",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1512242818829,
             "changeTime": 1512242818829,
-            "contentHash": "a1ec3b1a901b81a519a05663bb5a5f1e2824fa60"
+            "contentHash": "a1ec3b1a901b81a519a05663bb5a5f1e2824fa60",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

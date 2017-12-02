@@ -1,0 +1,212 @@
+[
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "652936e172d29594295c80fb3868fb3388581439",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "dc570189c488cf26078214479566afa761e64eb3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "398f07a8f56ed843eae43c3d7ea0990443aae5ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 924,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "cfeb3163e7704616b1af188627292a690577f789",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "d58c016c49b2a64fee493e860523badd017ebd63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 612,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "e9c6c51161c652d4edf6a366b15ddd02e45b3370",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "a1ec3b1a901b81a519a05663bb5a5f1e2824fa60",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 230,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "c966def05a27490ef9b191014cfdf469d7c3ee33",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "0a15b49880adb4316e2657cfbee30a236c1592e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "84ae45b14ce04fbcb63fa653277ce669fbb307ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6528,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "7babfdee8bcd666ef0fd421904c4133923b1254a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev2\\MyPickups",
+        {
+            "state": "u",
+            "sourcePath": "F:\\GitTest\\Dev2\\MyPickups",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1512246495111,
+            "changeTime": 1512246495111,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
