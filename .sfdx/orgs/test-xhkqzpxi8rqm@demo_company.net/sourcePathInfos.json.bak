@@ -1,0 +1,88 @@
+[
+    [
+        "F:\\GitTest\\Dev1\\MyPickups\\force-app",
+        {
+            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512240417467,
+            "changeTime": 1512240417467,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main",
+        {
+            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512240417467,
+            "changeTime": 1512240417467,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default",
+        {
+            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512240417467,
+            "changeTime": 1512240417467,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512242344317,
+            "changeTime": 1512242344317,
+            "contentHash": "99ea7bf70f6e69ad71659995677b43f8a8312025",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev1\\MyPickups",
+        {
+            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512240494962,
+            "changeTime": 1512240494962,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\Test1",
+        {
+            "sourcePath": "F:\\GitTest\\Dev1\\MyPickups\\force-app\\main\\default\\aura\\Test1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1512242344432,
+            "changeTime": 1512242344432,
+            "contentHash": "f1d40e918914a005621622bb7d9347633e1748b2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
